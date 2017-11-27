@@ -1,0 +1,13 @@
+pages\BasePage.class
+pages\AddEmployeePage.class
+menues\MainMenu.class
+pages\DashBoardPage.class
+pages\LoginPage.class
+general\General.class
+pages\PimPage.class
+general\GetProperties.class
+pages\AssignLeavePage.class
+pages\EmployeeListPage.class
+com\hrm\App.class
+menues\BaseMenu.class
+pages\LocalizationPage.class

@@ -1,0 +1,8 @@
+tests\EmployeeSearchPOMTestCase.class
+tests\EmployeeSortingPOMTestCase.class
+suites\AllTests.class
+tests\BaseTest.class
+tests\POMTestCase.class
+tests\AdminLogin.class
+com\hrm\AppTest.class
+tests\LocalizationPOMTestCase.class
